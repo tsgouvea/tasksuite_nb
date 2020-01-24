@@ -1,0 +1,3 @@
+[submodule "tasksuite_analysis"]
+	path = tasksuite_analysis
+	url = https://github.com/tsgouvea/tasksuite_analysis.git
